@@ -1,3 +1,7 @@
+---
+layout: default
+title: 首页
+---
 # 📝 精听笔记合集 - Japanese Listening Notes
 
 这是一个整理日语听力精听的开源仓库。内容包括：原文听力 + 中文翻译（可展开）+ 重点词汇 + 语法补充，适合自学者使用。
