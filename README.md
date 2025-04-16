@@ -19,7 +19,5 @@ title: 首页
 ---
 
 ## 📢 联系我 / 更多更新
-
-- ✉️ 邮箱：[chengxiakuan@gmail.com](mailto:chengxiakuan@gmail.com)
 - [Bilibili 主页](https://space.bilibili.com/393573154?spm_id_from=333.1007.0.0)
 - [YouTube 频道](https://www.youtube.com/@JapaneseListeningRoom)
