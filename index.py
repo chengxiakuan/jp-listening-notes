@@ -1,6 +1,6 @@
 import os
 
-LEVELS = ["N5", "N4", "N3", "N2", "N1"]
+LEVELS = ["N5", "N4", "N3", "N2", "N1", "HSK1-2", "HSK3-4", "HSK5-6"]
 
 for level in LEVELS:
     path = os.path.join(os.getcwd(), level)
